@@ -1,4 +1,4 @@
-<img width="1142" height="642" alt="Screenshot 2026-11-02 110601" src="https://github.com/user-attachments/assets/79f21e6b-f88b-4f0d-ab5e-02bec7ca72c6" /># FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
+FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
 
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
@@ -84,9 +84,18 @@ Recovered Deleted File List and Details
 
 
 
+<img width="1142" height="642" alt="Screenshot 2026-11-02 110601" src="https://github.com/user-attachments/assets/eafebaea-0ee0-4616-b480-d3ef083fcf86" />
+
+
+<img width="1141" height="641" alt="Screenshot 2026-11-02 110622" src="https://github.com/user-attachments/assets/ef295448-b2fb-4349-8080-9744a6fe4241" />
 
 
 
+<img width="1133" height="712" alt="Screenshot 2026-11-02 110639" src="https://github.com/user-attachments/assets/cf40d979-cded-4097-9fb9-1a2b252732df" />
+
+
+
+<img width="1133" height="712" alt="Screenshot 2026-11-02 110639" src="https://github.com/user-attachments/assets/f447ad6a-021b-49b4-b6d7-080758303cd9" />
 
 
 
